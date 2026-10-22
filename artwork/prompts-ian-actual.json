@@ -1,0 +1,37 @@
+{
+  "generator": "Built-in image_gen",
+  "date": "2026-10-22",
+  "identity_and_outfit": [
+    {
+      "name": "hero",
+      "prompt": "Recreate the FIRST image for the same personal website, replacing the ENTIRE character design with the character in the SECOND reference. The second image is the authoritative identity AND OUTFIT reference, not just a hair-color reference. Match his pale platinum/blond fluffy layered hair, blue-violet eyes, black soft rectangular glasses, youthful adult male face, and especially his CURRENT CLOTHES: oversized white hooded jacket with pale lavender shaded folds and dark inner cuffs/lining, white T-shirt, black harness-like straps with buckles, layered silver chain necklaces and rectangular pendants, silver rings, black cargo trousers with belts and chains. These clothes must clearly match the second reference. Remove all old camouflage clothing, military patches, orange jersey, number 11, flag patch and old jacket lettering from the first image. Retain ONLY the FIRST image's landscape 3:2 composition, seated body pose and placement, camera framing, and softly blurred warm charcoal/amber studio background, so it fits an existing website. Render with the clean, delicate high-detail anime illustration and soft light/lavender material finish of the SECOND reference, keeping the white outfit white and the hair pale platinum, with subtle warm rim light. Not pixel art. No UI, no typography, no invented branding, no cat, no room. Anatomically correct hands, complete visible fingers, no accidental crops beyond the original framing. Opaque background. Pose: seated, thoughtful hand near lips, other hand resting low, same pose as first target. No guitar is required for this pose.",
+      "mode": "built-in image_gen"
+    },
+    {
+      "name": "gesture",
+      "prompt": "Recreate the FIRST image for the same personal website, replacing the ENTIRE character design with the character in the SECOND reference. The second image is the authoritative identity AND OUTFIT reference, not just a hair-color reference. Match his pale platinum/blond fluffy layered hair, blue-violet eyes, black soft rectangular glasses, youthful adult male face, and especially his CURRENT CLOTHES: oversized white hooded jacket with pale lavender shaded folds and dark inner cuffs/lining, white T-shirt, black harness-like straps with buckles, layered silver chain necklaces and rectangular pendants, silver rings, black cargo trousers with belts and chains. These clothes must clearly match the second reference. Remove all old camouflage clothing, military patches, orange jersey, number 11, flag patch and old jacket lettering from the first image. Retain ONLY the FIRST image's landscape 3:2 composition, seated body pose and placement, camera framing, and softly blurred warm charcoal/amber studio background, so it fits an existing website. Render with the clean, delicate high-detail anime illustration and soft light/lavender material finish of the SECOND reference, keeping the white outfit white and the hair pale platinum, with subtle warm rim light. Not pixel art. No UI, no typography, no invented branding, no cat, no room. Anatomically correct hands, complete visible fingers, no accidental crops beyond the original framing. Opaque background. Pose: seated with one hand near his mouth and the nearer hand reaching towards the viewer in a relaxed confident gesture, same foreshortening and composition as the first target. Keep fingers believable. No guitar is required; the outfit and identity, not the prop, are the main reference.",
+      "mode": "built-in image_gen"
+    }
+  ],
+  "purple_light": [
+    {
+      "name": "hero",
+      "prompt": "Edit the FIRST image with a precise LIGHTING AND BACKGROUND COLOR change. The character, face, platinum blond fluffy hair, blue-violet eyes, glasses, pose, white-lavender oversized hooded jacket, black straps, silver chains and rings, black cargo pants, anatomy and landscape composition must remain unchanged. Replace the current ORANGE/GOLD rim lighting with a distinctly PURPLE/VIOLET glow matching the luminous purple edge light in the SECOND reference image. Make the purple glow clearly visible along the outer hair strands, hood, shoulders, sleeves and straps; soft lavender reflected highlights in the white fabric, without turning the white outfit into solid purple. Replace the amber background illumination with a dark charcoal-to-deep-violet studio gradient and a soft atmospheric violet/lavender halo behind the character. Keep face skin natural and hair pale platinum. No orange or gold halo, no fiery orange highlights. Preserve crisp beautiful anime rendering, balanced cinematic contrast and the original 3:2 landscape framing. Do not add text, props, logos, patterns or UI. Opaque background.",
+      "mode": "built-in image_gen",
+      "references": [
+        "Current outfit illustration",
+        "Ian current character reference with purple rim light"
+      ]
+    },
+    {
+      "name": "gesture",
+      "prompt": "Edit the FIRST image with a precise LIGHTING AND BACKGROUND COLOR change. The character, face, platinum blond fluffy hair, blue-violet eyes, glasses, pose, white-lavender oversized hooded jacket, black straps, silver chains and rings, black cargo pants, anatomy and landscape composition must remain unchanged. Replace the current ORANGE/GOLD rim lighting with a distinctly PURPLE/VIOLET glow matching the luminous purple edge light in the SECOND reference image. Make the purple glow clearly visible along the outer hair strands, hood, shoulders, sleeves and straps; soft lavender reflected highlights in the white fabric, without turning the white outfit into solid purple. Replace the amber background illumination with a dark charcoal-to-deep-violet studio gradient and a soft atmospheric violet/lavender halo behind the character. Keep face skin natural and hair pale platinum. No orange or gold halo, no fiery orange highlights. Preserve crisp beautiful anime rendering, balanced cinematic contrast and the original 3:2 landscape framing. Do not add text, props, logos, patterns or UI. Opaque background.",
+      "mode": "built-in image_gen",
+      "references": [
+        "Current outfit illustration",
+        "Ian current character reference with purple rim light"
+      ]
+    }
+  ],
+  "approved_direction": "Ian's current platinum-blond character, white/lavender hooded jacket, black straps and cargo trousers, silver jewelry, black glasses and purple glow. Original website poses and layout."
+}

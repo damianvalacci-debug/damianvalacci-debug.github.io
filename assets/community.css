@@ -3,3 +3,4 @@
 .post-image img{height:auto}
 .video-card--release>a{display:block}.video-card--release>a img{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}.video-card--release h3 a:hover{color:var(--amber)}
 .email-contact{margin-bottom:28px}.email-contact .eyebrow{margin-bottom:10px}.email-link{display:inline-block;font-size:clamp(18px,2.4vw,28px);border-bottom:1px solid var(--amber);color:var(--white);overflow-wrap:anywhere}.email-link:hover,.footer-email:hover{color:var(--amber)}.email-contact .muted{font-size:12px;color:var(--muted);margin-top:12px}.footer-email{font-size:12px;color:var(--white);overflow-wrap:anywhere;text-transform:none;letter-spacing:.2px}
+.hero{background:#14101c}
